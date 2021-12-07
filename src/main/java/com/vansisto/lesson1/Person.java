@@ -1,4 +1,4 @@
-package com.vansisto;
+package com.vansisto.lesson1;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,5 +1,6 @@
 package com.vansisto;
 
+import com.vansisto.lesson1.Calculator;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
